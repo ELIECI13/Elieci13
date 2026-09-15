@@ -3,72 +3,46 @@
 <h3 align="center">Suporte de TI • Help Desk • Service Desk | Front-end Júnior</h3>
 
 <p align="center">
-Profissional de Tecnologia da Informação, graduado em <strong>Gestão de Tecnologia da Informação</strong> e pós-graduado em <strong>Ciência de Dados</strong>, em busca de uma oportunidade para desenvolver minha carreira na área de TI.
+Graduado em <strong>Gestão de Tecnologia da Informação</strong> e pós-graduado em <strong>Ciência de Dados</strong>. Estou buscando minha primeira oportunidade profissional em TI, com foco principal em suporte e também desenvolvendo projetos front-end.
 </p>
 
 ---
 
-## 👨‍💻 Sobre mim
+## Sobre mim
 
-- 🎓 Graduado em **Gestão de Tecnologia da Informação**
-- 🎓 Pós-graduado em **Ciência de Dados**
-- 🛠️ Foco principal em **Suporte de TI, Help Desk e Service Desk**
-- 🌐 Também desenvolvendo conhecimentos em **Front-end**
-- 🔧 Interesse em troubleshooting, Windows, hardware, redes e suporte ao usuário
-- 📚 Em constante aprendizado e construção de projetos práticos
-- 🎯 Buscando minha primeira oportunidade profissional na área de Tecnologia da Informação
+- Foco em **Suporte de TI, Help Desk e Service Desk**
+- Estudos de troubleshooting, Windows, redes, hardware e suporte ao usuário
+- Desenvolvimento de projetos com **HTML, CSS e JavaScript**
+- Buscando transformar estudo em prática através de laboratórios e aplicações
 
-## 🧰 Tecnologias e conhecimentos
+## Projetos
 
-### Suporte e TI
-![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows11&logoColor=white)
-![Hardware](https://img.shields.io/badge/Hardware-555555?style=for-the-badge&logo=ifixit&logoColor=white)
-![Redes](https://img.shields.io/badge/Redes-1F6FEB?style=for-the-badge&logo=cisco&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+### Help Desk Lab
+Laboratório de estudos com cenários de atendimento e diagnóstico de problemas comuns em suporte de TI.
 
-### Desenvolvimento Web
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+Os casos abordam rede, DNS, impressoras, lentidão no Windows, pasta compartilhada, conta bloqueada em ambiente Active Directory e investigação de tela azul.
 
-## 🚀 Projetos em construção
+**Repositório:** https://github.com/ELIECI13/help-desk-lab
 
-Estou desenvolvendo projetos voltados a situações reais de TI para demonstrar minhas habilidades na prática.
+> Os chamados são cenários de laboratório para estudo e não representam atendimentos realizados profissionalmente.
 
-### 🎫 Help Desk Lab
-Laboratório de suporte técnico com documentação de chamados, diagnóstico de problemas, troubleshooting de Windows, redes, usuários e equipamentos.
+### FechaBus
+Aplicação web baseada em uma situação que conheço da rotina do transporte coletivo: conferência de roleta e fechamento de caixa.
 
-**Objetivo:** demonstrar raciocínio técnico, documentação e capacidade de solucionar problemas comuns encontrados em ambientes corporativos.
+O projeto possui validação dos dados, cálculo de diferença de caixa, histórico salvo no navegador, exclusão de registros, tema escuro e exportação em CSV.
 
-### 🚌 Calculadora do Cobrador
-Aplicação web baseada em uma necessidade real do transporte coletivo, criada para auxiliar no fechamento e conferência de valores de uma jornada de trabalho.
+**Testar online:** https://elieci13.github.io/Calculadora-Cobrador-/
 
-**Objetivo:** transformar experiência prática em uma solução digital utilizando desenvolvimento web.
+**Código:** https://github.com/ELIECI13/Calculadora-Cobrador-
 
-### ⚙️ Automação de Suporte
-Projeto destinado a scripts e ferramentas simples para automatizar tarefas repetitivas de suporte técnico.
+## Conhecimentos que estou praticando
 
-**Objetivo:** unir conhecimentos de suporte de TI com automação.
+**Suporte:** Windows, troubleshooting, hardware, redes, TCP/IP, DNS, compartilhamentos, Active Directory em cenários de laboratório e PowerShell básico.
 
-> Os projetos estão sendo desenvolvidos e serão publicados gradualmente neste perfil.
+**Front-end:** HTML5, CSS3, JavaScript, DOM, LocalStorage, responsividade e Git/GitHub.
 
-## 📈 Atualmente estudando
+## Objetivo profissional
 
-- Suporte técnico e troubleshooting
-- Redes de computadores
-- Windows e administração de sistemas
-- Git e GitHub
-- HTML, CSS e JavaScript
-- Desenvolvimento Front-end
+Busco oportunidades como **Técnico de Suporte**, **Analista de Suporte Júnior**, **Help Desk**, **Service Desk**, **Assistente de TI** ou **Desenvolvedor Front-end Júnior**.
 
-## 🎯 Objetivo profissional
-
-Busco oportunidades como **Técnico de Suporte**, **Analista de Suporte Júnior**, **Help Desk**, **Service Desk**, **Assistente de TI** ou **Desenvolvedor Front-end Júnior**, onde eu possa aplicar meus conhecimentos, aprender com uma equipe e evoluir profissionalmente.
-
----
-
-<p align="center">
-<strong>💻 Tecnologia se aprende resolvendo problemas.</strong><br>
-Este perfil registra minha evolução através de projetos e estudos práticos.
-</p>
+Quero uma oportunidade para entrar profissionalmente na área, continuar aprendendo e ganhar experiência trabalhando com problemas e projetos reais.
