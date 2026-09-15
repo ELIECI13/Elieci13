@@ -3,7 +3,7 @@
 <h3 align="center">Suporte de TI • Help Desk • Service Desk | Front-end Júnior</h3>
 
 <p align="center">
-Profissional formado em <strong>Gestão de Tecnologia da Informação</strong>, em busca de uma oportunidade para iniciar e desenvolver minha carreira na área de TI.
+Profissional de Tecnologia da Informação, graduado em <strong>Gestão de Tecnologia da Informação</strong> e pós-graduado em <strong>Ciência de Dados</strong>, em busca de uma oportunidade para desenvolver minha carreira na área de TI.
 </p>
 
 ---
@@ -11,6 +11,7 @@ Profissional formado em <strong>Gestão de Tecnologia da Informação</strong>, 
 ## 👨‍💻 Sobre mim
 
 - 🎓 Graduado em **Gestão de Tecnologia da Informação**
+- 🎓 Pós-graduado em **Ciência de Dados**
 - 🛠️ Foco principal em **Suporte de TI, Help Desk e Service Desk**
 - 🌐 Também desenvolvendo conhecimentos em **Front-end**
 - 🔧 Interesse em troubleshooting, Windows, hardware, redes e suporte ao usuário
