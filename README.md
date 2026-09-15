@@ -35,11 +35,20 @@ O projeto possui validação dos dados, cálculo de diferença de caixa, histór
 
 **Código:** https://github.com/ELIECI13/Calculadora-Cobrador-
 
+### BuscaCEP
+Aplicação para consulta de endereços brasileiros por CEP, criada para praticar consumo de API REST com JavaScript.
+
+Utiliza `fetch` e `async/await`, trata erros de consulta, permite copiar o endereço e mantém um histórico local das últimas pesquisas.
+
+**Testar online:** https://elieci13.github.io/busca-cep/
+
+**Código:** https://github.com/ELIECI13/busca-cep
+
 ## Conhecimentos que estou praticando
 
 **Suporte:** Windows, troubleshooting, hardware, redes, TCP/IP, DNS, compartilhamentos, Active Directory em cenários de laboratório e PowerShell básico.
 
-**Front-end:** HTML5, CSS3, JavaScript, DOM, LocalStorage, responsividade e Git/GitHub.
+**Front-end:** HTML5, CSS3, JavaScript, DOM, Fetch API, APIs REST, JSON, LocalStorage, responsividade e Git/GitHub.
 
 ## Objetivo profissional
 
