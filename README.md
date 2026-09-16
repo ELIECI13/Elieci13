@@ -26,6 +26,15 @@ Os casos abordam rede, DNS, impressoras, lentidão no Windows, pasta compartilha
 
 > Os chamados são cenários de laboratório para estudo e não representam atendimentos realizados profissionalmente.
 
+### Papelaria Fácil
+Sistema web para controle de uma pequena papelaria, com cadastro de produtos, preços de custo e venda, margem, estoque mínimo, carrinho e histórico de vendas.
+
+Ao finalizar uma venda, o estoque é atualizado automaticamente. Os registros ficam no navegador e o histórico pode ser exportado em CSV.
+
+**Testar online:** https://elieci13.github.io/papelaria-facil/
+
+**Código:** https://github.com/ELIECI13/papelaria-facil
+
 ### FechaBus
 Aplicação web baseada em uma situação que conheço da rotina do transporte coletivo: conferência de roleta e fechamento de caixa.
 
@@ -48,7 +57,7 @@ Utiliza `fetch` e `async/await`, trata erros de consulta, permite copiar o ender
 
 **Suporte:** Windows, troubleshooting, hardware, redes, TCP/IP, DNS, compartilhamentos, Active Directory em cenários de laboratório e PowerShell básico.
 
-**Front-end:** HTML5, CSS3, JavaScript, DOM, Fetch API, APIs REST, JSON, LocalStorage, responsividade e Git/GitHub.
+**Front-end:** HTML5, CSS3, JavaScript, DOM, Fetch API, APIs REST, JSON, LocalStorage, responsividade, Git/GitHub e geração de CSV no navegador.
 
 ## Objetivo profissional
 
